@@ -1,7 +1,7 @@
 # Recipe Converter
 Convert all units in a recipe from US to metric or vice versa.
 
-It is a working prototype with a limited command line interface. It has not been tested much yet.
+It is a working prototype with a limited command line interface. It has not been tested much yet and will only be used or improved sporadically, if at all.
 
 ## Features
 
