@@ -1,0 +1,4 @@
+* Improve closest-unit function. Round trip safe 1 cup -> 2.4 dl -> 1 cup.
+    * Preferred unit. dl > cl etc.
+* Command line configuration. Units to include or exclude.
+* UK/imperial units.
